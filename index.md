@@ -1,5 +1,5 @@
 ---
-permalink = /Home/
+permalink: /Home/
 ---
 
 # os211
