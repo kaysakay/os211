@@ -2,7 +2,7 @@
 Operating Systems 2021-1 (Semester Genap 2020/2021).
 
 > Kaysa Syifa Wijdan Amin - 1906400362 - Operation System Course Class A
-> 
+>
 
 # Kaysa's Operation System 2021
 ### [Log](TXT/mylog.txt)
