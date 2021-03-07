@@ -5,7 +5,6 @@ Operating Systems 2021-1 (Semester Genap 2020/2021).
 > 
 
 # Kaysa's Operation System 2021
-### [Home](Home)
 ### [Log](TXT/mylog.txt)
 ### [GitHub](https://github.com/kaysakay/os211)
 
