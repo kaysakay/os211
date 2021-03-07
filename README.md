@@ -5,4 +5,4 @@ Operating Systems 2021-1 (Semester Genap 2020/2021).
 
 ## The TOP 10 List
 
-### 1. [WEEK 1](https://github.com/kaysakay/os211/W01)
+### 1. [WEEK 1](https://github.com/kaysakay/os211/W01/)
