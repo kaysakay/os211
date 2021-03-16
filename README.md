@@ -7,6 +7,7 @@ Operating Systems 2021-1 (Semester Genap 2020/2021).
 # Kaysa's Operation System 2021
 
 [Log](TXT/mylog.txt) | [GitHub](https://github.com/kaysakay/os211) | [Rank](TXT/myrank.txt) | [Key](TXT/mypubkey.txt)
+---|---|---|---
 
 ## The TOP 10 List
 
