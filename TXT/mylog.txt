@@ -38,3 +38,15 @@ ZCZC  W02   10 L29  Assignment #9
 ZCZC  W02   10 L30  Assignment #10
 ZCZC  W02   10 L31  Assignment #11
 ZCZC  W02   60 L05  Movie : Relax
+ZCZC  W03   15 L01  Scele Related
+ZCZC  W03  120 L02  ZOOM Related
+ZCZC  W03   30 L03  Github Related
+ZCZC  W03   30 L04  Github Pages
+ZCZC  W03  120 L31  Assignment #1 (Read)
+ZCZC  W03   30 L33  Assignment #3
+ZCZC  W03   30 L34  Assignment #4 
+ZCZC  W03  120 L35  Assignment #5
+ZCZC  W03   15 L36  Assignment #6
+ZCZC  W03   45 L05  Discord Related
+ZCZC  W03   45 L06  Asdos : Asking
+ZCZC  W03   60 L07  Making notes WEEK03
