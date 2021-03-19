@@ -47,6 +47,9 @@ ZCZC  W03   30 L33  Assignment #3
 ZCZC  W03   30 L34  Assignment #4 
 ZCZC  W03  120 L35  Assignment #5
 ZCZC  W03   15 L36  Assignment #6
+ZCZC  W03   30 L37  Assignment #7
+ZCZC  W03    2 L38  Assignment #8
+ZCZC  W03    2 L39  Assignment #9
 ZCZC  W03   45 L05  Discord Related
 ZCZC  W03   45 L06  Asdos : Asking
 ZCZC  W03   60 L07  Making notes WEEK03
