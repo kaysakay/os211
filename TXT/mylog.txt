@@ -53,3 +53,16 @@ ZCZC  W03    2 L39  Assignment #9
 ZCZC  W03   45 L05  Discord Related
 ZCZC  W03   45 L06  Asdos : Asking
 ZCZC  W03   60 L07  Making notes WEEK03
+ZCZC  W04   15 L01  Scele Related
+ZCZC  W04  120 L02  ZOOM Related
+ZCZC  W04   30 L03  GitHub Related
+ZCZC  W04   30 L04  GitHub Pages
+ZCZC  W04   60 L41  Assignment #1
+ZCZC  W04   30 L43  Assignment #3
+ZCZC  W04   90 L44  Assignment #4
+ZCZC  W04   30 L45  Assignment #5
+ZCZC  W04   45 L46  Assignment #6
+ZCZC  W04   10 L47  Assignment #7
+ZCZC  W04   10 L48  Assignment #8
+ZCZC  W04   45 L05  Discord Related
+ZCZC  W04  120 L06  Making Notes WEEK04
