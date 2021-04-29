@@ -16,3 +16,4 @@ Operating Systems 2021-1 (Semester Genap 2020/2021).
 ### 4. [WEEK 4](W04)
 ### 5. [WEEK 5](W05)
 ### 6. [WEEK 6](W06)
+### 7. [WEEK 7](W07)
