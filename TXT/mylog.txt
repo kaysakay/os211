@@ -109,7 +109,7 @@ ZCZC  W08   30 L03  GitHub Related
 ZCZC  W08   30 L04  GitHub Pages
 ZCZC  W08   90 L81  Assignment #1
 ZCZC  W08   15 L82  Assignment #2
-ZCZC  W08  120 L83  Assignment #3
+ZCZC  W08  180 L83  Assignment #3
 ZCZC  W08   60 L84  Assignment #4
 ZCZC  W08   10 L85  Assignment #5
 ZCZC  W08    5 L86  Assignment #6
