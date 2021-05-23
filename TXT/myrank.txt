@@ -40,3 +40,7 @@ ZCZC W06 KristiantoD
 ZCZC W07 KentaBisma
 ZCZC W07 kgtgeo
 ZCZC W07 KevinAfiza
+
+ZCZC W08 kevin-UI2019
+ZCZC W08 luthfifahlevi
+ZCZC W08 mackarelfish
